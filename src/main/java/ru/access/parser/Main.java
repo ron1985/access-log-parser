@@ -1,3 +1,5 @@
+package ru.access.parser;
+
 import java.util.Scanner;
 
 public class Main {
